@@ -25,7 +25,7 @@ class EnvConfig(StrEnum):
     PRODUCTION = "production"
     API_KEYS= " fd46f8c672e1c13dcf563a06136c51debe664669"
     AWS= "YUGBJI(8ewr"
-    password= "admin@1234"
+    password= "adin@1234"
 
 
 class Status(StrEnum):
