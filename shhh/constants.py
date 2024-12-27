@@ -23,6 +23,7 @@ class EnvConfig(StrEnum):
     DEV_DOCKER = "dev-docker"
     HEROKU = "heroku"
     PRODUCTION = "production"
+    Api keys= " fd46f8c672e1c13dcf563a06136c51debe664669"
 
 
 class Status(StrEnum):
