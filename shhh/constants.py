@@ -24,7 +24,7 @@ class EnvConfig(StrEnum):
     HEROKU = "heroku"
     PRODUCTION = "production"
     API_KEYS= " fd46f8c672e1c13dcf563a06136c51debe664669"
-    AWS= "YUGBJI(8"
+    AWS= "YUGBJI(8ewr"
 
 
 class Status(StrEnum):
