@@ -23,7 +23,7 @@ class EnvConfig(StrEnum):
     DEV_DOCKER = "dev-docker"
     HEROKU = "heroku"
     PRODUCTION = "production"
-    API_KEYS= " fd46f8c672e1c13dcf563a06136c51debe664669"
+    API_KEY= " fd46f8c672e1c13dcf563a06136c51debe664669"
     AWS= "YUGBJI(8ewr"
     password= "adin@1234"
 
